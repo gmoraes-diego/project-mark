@@ -1,0 +1,13 @@
+{
+    "dup": {
+        "name": "Estudar JavaScript",
+        "is_done": false
+    },
+
+    "newTask": "Estudar para CTFL",
+
+    "markTask": {
+        "name": "Pagar contas de consumo",
+        "is_done": false
+    }
+}
